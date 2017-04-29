@@ -11,7 +11,11 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/darkflamed/cart"
+            "url": "https://github.com/darkflamed/tax"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/darkflamed/currency"
         }
     ],
     "require": {
