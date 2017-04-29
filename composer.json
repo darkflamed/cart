@@ -8,6 +8,12 @@
             "email": "support@molt.in"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/darkflamed/cart"
+        }
+    ],
     "require": {
         "php": ">=5.6.4",
         "moltin/tax": "dev-master",
